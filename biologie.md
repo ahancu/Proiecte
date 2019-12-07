@@ -43,7 +43,7 @@ Früchte sind sehr zucker- und fruchtsäurereich. Beides ist im Übermass **alle
 
 Mit **Fruchtsäften** nimmt man gar noch schneller grosse Früchtemengen zu sich und kann auf diese Weise dann auch rasch einen Fructoseüberschuss erreichen.  
 
-⚠️ Bei einem hohen Früchteverzehr wird die Ernährung überdies immer eiweissärmer, denn Früchte liefern nur wenige Proteine, nämlich meist unter 1 Prozent.  
+⚠️ **Bei einem hohen Früchteverzehr wird die Ernährung überdies immer eiweissärmer, denn Früchte liefern nur wenige Proteine, nämlich meist unter 1 Prozent.**  
 
 ### § 5. Fehler in der gesunden Ernährung: Zu wenig Eiweiss
 
