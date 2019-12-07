@@ -9,9 +9,9 @@ Zu viel davon ist jedoch gar nicht gut. Dann nämlich fördern sie chronische En
 Omega-6-Fettsäuren sollten daher in einem Verhältnis von höchstens 5 zu 1 besser 3 zu 1 mit Omega-3-Fettsäuren verzehrt werden.
 
 #### Beispiele für Quellen von Omega-6-Fettsäuren
-  1. Sonnenblumenöl und Distelöl, aber auch Traubenkernöl oder Kürbiskernöl sind Öle mit sehr hohen Omega-6-Gehalten.
+  **Nr1.** Sonnenblumenöl und Distelöl, aber auch Traubenkernöl oder Kürbiskernöl sind Öle mit sehr hohen Omega-6-Gehalten.
 
-  2. Reis- und Haferdrinks werden nämlich meist mit Sonnenblumenöl versetzt. Überdies ist das Getreide selbst ebenfalls eine Omega-6-Fettsäure-Quelle.
+  **Nr.2.** Reis- und Haferdrinks werden nämlich meist mit Sonnenblumenöl versetzt. Überdies ist das Getreide selbst ebenfalls eine Omega-6-Fettsäure-Quelle.
 
 Das macht natürlich überhaupt nichts, wenn man ab und zu ein Glas Reisdrink zu sich nimmt oder das morgendliche Müsli mit Haferdrink zubereitet.
 
@@ -31,7 +31,7 @@ Sie liefern mehr Mineralstoffe und Vitamine, mehr sekundäre Pflanzenstoffe und 
 
 Gluten wird von vielen Menschen nicht gut vertragen, wobei es sich nur in den allerwenigsten Glutenunverträglichkeitsfällen um eine Zöliakie handelt. Die meisten glutenempfindlichen Menschen leiden an einer **Glutenunverträglichkeit** (auch Glutenintoleranz genannt), die zu den unterschiedlichsten Symptomen führen kann.  
 
-Dazu gehören **Verdauungsbeschwerden, Migräne, Depressionen, Fibromyalgie, ständige Müdigkeit, Autoimmunerkrankungen und nicht zuletzt Übergewicht**.  
+⚠️ Dazu gehören **Verdauungsbeschwerden, Migräne, Depressionen, Fibromyalgie, ständige Müdigkeit, Autoimmunerkrankungen und nicht zuletzt Übergewicht**.  
 
 Es ist also auch aus diesem Grund nicht schlecht, etwas weniger häufig zu Getreideprodukten zu greifen oder wenigstens ab und zu glutenfreie Produkte zu wählen.  
 
