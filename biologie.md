@@ -1,6 +1,6 @@
 # Die Fehler die du beim Essen machst
 
-### § 1. Fehler in der gesunden Ernährung: Zu viele Omega-6-Fettsäuren 
+## § 1. Fehler in der gesunden Ernährung: Zu viele Omega-6-Fettsäuren 
 
 Omega-6-Fettsäuren sind natürlich gesund, also lebensnotwendig.
 
@@ -8,7 +8,7 @@ Zu viel davon ist jedoch gar nicht gut. Dann nämlich fördern sie chronische En
 
 Omega-6-Fettsäuren sollten daher in einem Verhältnis von höchstens 5 zu 1 besser 3 zu 1 mit Omega-3-Fettsäuren verzehrt werden.
 
-#### Beispiele für Quellen von Omega-6-Fettsäuren
+### Beispiele für Quellen von Omega-6-Fettsäuren
   **Nr1.**: Sonnenblumenöl und Distelöl, aber auch Traubenkernöl oder Kürbiskernöl sind Öle mit sehr hohen Omega-6-Gehalten.  
 
   **Nr.2.**: Reis- und Haferdrinks werden nämlich meist mit Sonnenblumenöl versetzt. Überdies ist das Getreide selbst ebenfalls eine Omega-6-Fettsäure-Quelle.  
@@ -17,7 +17,7 @@ Das macht natürlich überhaupt nichts, wenn man ab und zu ein Glas Reisdrink zu
 
 Doch gewöhnt man sich rasch an die süsslichen Getränke, nimmt sie vielleicht ins Büro mit und trinkt mal eben nebenher einen Liter davon täglich.  
 
-### § 2. Fehler in der gesunden Ernährung: Zu viel Vollkorn 
+## § 2. Fehler in der gesunden Ernährung: Zu viel Vollkorn 
 
 Bei einer Ernährungsumstellung kommt es häufig dazu, dass man plötzlich unheimlich viel Vollkorn verzehrt. Mit Vollkorn sind hier **Getreideprodukte aus Weizen, Dinkel, Hafer und Roggen** gemeint.  
 
@@ -25,7 +25,7 @@ Sie liefern mehr Mineralstoffe und Vitamine, mehr sekundäre Pflanzenstoffe und 
 
 ⚠️ **Zu viele Vollkornprodukte überlasten jedoch das Verdauungssystem und aufgrund der hohen Kohlenhydratgehalte auch die Bauchspeicheldrüse und die Leber.**  
 
-### § 3. Fehler in der gesunden Ernährung: Zu viel Gluten
+## § 3. Fehler in der gesunden Ernährung: Zu viel Gluten
 
 **Gluten** ist das Getreideprotein im Weizen, das auch in anderen Variationen im Roggen, in der Gerste, im Hafer und im Dinkel enthalten ist.  
 
@@ -35,7 +35,7 @@ Gluten wird von vielen Menschen nicht gut vertragen, wobei es sich nur in den al
 
 Es ist also auch aus diesem Grund nicht schlecht, etwas weniger häufig zu Getreideprodukten zu greifen oder wenigstens ab und zu glutenfreie Produkte zu wählen.  
 
-### § 4.Fehler in der gesunden Ernährung: Zu viele Früchte und Fruchtsäfte
+## § 4.Fehler in der gesunden Ernährung: Zu viele Früchte und Fruchtsäfte
 
 Die meisten dieser Ernährungen sind **konsequent umgesetzt** sehr vorteilhaft für die Gesundheit. Häufig jedoch werden aus einer Ernährungsrichtung nur jene Teile umgesetzt, die besonders einfach praktizierbar sind oder natürlich diejenigen, die besonders gut schmecken.  
 
@@ -45,7 +45,7 @@ Mit **Fruchtsäften** nimmt man gar noch schneller grosse Früchtemengen zu sich
 
 ⚠️ **Bei einem hohen Früchteverzehr wird die Ernährung überdies immer eiweissärmer, denn Früchte liefern nur wenige Proteine, nämlich meist unter 1 Prozent.**  
 
-### § 5. Fehler in der gesunden Ernährung: Zu wenig Eiweiss
+## § 5. Fehler in der gesunden Ernährung: Zu wenig Eiweiss
 
 Doch nicht nur eine früchtereiche Ernährung kann dazu führen, dass man wenig Eiweiss zu sich nimmt. Eine Ernährungsumstellung geht sehr häufig mit einem Mangelrisiko einher. Denn oft besteht eine Ernährungsumstellung darin, dass man einfach nur das eine oder andere Lebensmittel weglässt.  
 
@@ -57,7 +57,7 @@ Wenn also beispielsweise Getreide die Haupteiweissquelle darstellt, dann fehlt s
 
 ⚠️ Es ist daher wichtig, viele verschiedene Eiweissquellen zu sich zu nehmen, wie z. B. **Hülsenfrüchte, Getreide, Pseudogetreide, Ölsaaten, Wurzelgemüse, Blattgemüse.**  
 
-### § 6. Fehler in der gesunden Ernährung: Zu viele Snacks
+## § 6. Fehler in der gesunden Ernährung: Zu viele Snacks
 
 Ein typischer Ernährungsfehler – ob in der gesunden oder ungesunden Ernährung – ist das häufige Snacken, das oftmals die Hauptmahlzeiten komplett ersetzt. Denn wer ständig Kleinigkeiten nascht, hat für ein Mittag- oder Abendessen überhaupt keinen Hunger oder Appetit mehr.  Knabberartikel wie **Chips und Salzstangen** stehen hier ganz vorn, gefolgt von **Süssigkeiten, süssen Teilchen, Sandwiches, Backwaren, Kekse** etc.  
 
@@ -67,4 +67,4 @@ Alle diese Produkte gibt es auch in **Bio-Qualität im Bio-Supermarkt**. Daher w
 
 ⚠️ Zeitgleich droht **Übergewicht**, da das ständige Snacken auch mit ständigen Blutzuckerspitzen sowie mit hohen Insulinspiegeln einhergeht. Hohe Insulinspiegel jedoch verhindern den Fettabbau und fördern sogar noch die Fetteinlagerung ins Fettgewebe.  
 
-#### Das waren die Fehler, die viele Menschen machen, wenn es um Essen geht. Ich hoffe es hat euch gefallen.
+### Das waren die Fehler, die viele Menschen machen, wenn es um Essen geht. Ich hoffe es hat euch gefallen.
