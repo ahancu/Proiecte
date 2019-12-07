@@ -9,9 +9,9 @@ Zu viel davon ist jedoch gar nicht gut. Dann nämlich fördern sie chronische En
 Omega-6-Fettsäuren sollten daher in einem Verhältnis von höchstens 5 zu 1 besser 3 zu 1 mit Omega-3-Fettsäuren verzehrt werden.
 
 #### Beispiele für Quellen von Omega-6-Fettsäuren
-  **Nr1.** Sonnenblumenöl und Distelöl, aber auch Traubenkernöl oder Kürbiskernöl sind Öle mit sehr hohen Omega-6-Gehalten.
+  **Nr1.**: Sonnenblumenöl und Distelöl, aber auch Traubenkernöl oder Kürbiskernöl sind Öle mit sehr hohen Omega-6-Gehalten.  
 
-  **Nr.2.** Reis- und Haferdrinks werden nämlich meist mit Sonnenblumenöl versetzt. Überdies ist das Getreide selbst ebenfalls eine Omega-6-Fettsäure-Quelle.
+  **Nr.2.**: Reis- und Haferdrinks werden nämlich meist mit Sonnenblumenöl versetzt. Überdies ist das Getreide selbst ebenfalls eine Omega-6-Fettsäure-Quelle.  
 
 Das macht natürlich überhaupt nichts, wenn man ab und zu ein Glas Reisdrink zu sich nimmt oder das morgendliche Müsli mit Haferdrink zubereitet.
 
