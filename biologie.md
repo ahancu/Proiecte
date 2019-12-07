@@ -43,7 +43,7 @@ Früchte sind sehr zucker- und fruchtsäurereich. Beides ist im Übermass **alle
 
 Mit **Fruchtsäften** nimmt man gar noch schneller grosse Früchtemengen zu sich und kann auf diese Weise dann auch rasch einen Fructoseüberschuss erreichen.  
 
-Bei einem hohen Früchteverzehr wird die Ernährung überdies immer eiweissärmer, denn Früchte liefern nur wenige Proteine, nämlich meist unter 1 Prozent.  
+⚠️ Bei einem hohen Früchteverzehr wird die Ernährung überdies immer eiweissärmer, denn Früchte liefern nur wenige Proteine, nämlich meist unter 1 Prozent.  
 
 ### § 5. Fehler in der gesunden Ernährung: Zu wenig Eiweiss
 
@@ -55,7 +55,7 @@ Langfristig aber rutschen manche Menschen regelrecht in einen Eiweissmangel. Dab
 Denn Eiweiss besteht aus Aminosäuren, von denen 8 essentiell sind, also unbedingt mit der Ernährung aufgenommen werden müssen. Nun sind aber nicht alle Aminosäuren in jeder Eiweissquelle in der erforderlichen Menge enthalten.  
 Wenn also beispielsweise Getreide die Haupteiweissquelle darstellt, dann fehlt schnell die Aminosäure **Lysin**, die im Getreideeiweiss nicht so üppig enthalten ist.  
 
-Es ist daher wichtig, viele verschiedene Eiweissquellen zu sich zu nehmen, wie z. B. **Hülsenfrüchte, Getreide, Pseudogetreide, Ölsaaten, Wurzelgemüse, Blattgemüse.**  
+⚠️ Es ist daher wichtig, viele verschiedene Eiweissquellen zu sich zu nehmen, wie z. B. **Hülsenfrüchte, Getreide, Pseudogetreide, Ölsaaten, Wurzelgemüse, Blattgemüse.**  
 
 ### § 6. Fehler in der gesunden Ernährung: Zu viele Snacks
 
@@ -65,6 +65,6 @@ Alle diese Produkte gibt es auch in **Bio-Qualität im Bio-Supermarkt**. Daher w
 
 **Snacks** sind überdies oft sehr zucker- oder salzreich und gleichzeitig sehr wasserarm, was in dieser Kombination aus gesundheitlicher Sicht natürlich ebenfalls nicht gerade sinnvoll ist.  
 
-Zeitgleich droht **Übergewicht**, da das ständige Snacken auch mit ständigen Blutzuckerspitzen sowie mit hohen Insulinspiegeln einhergeht. Hohe Insulinspiegel jedoch verhindern den Fettabbau und fördern sogar noch die Fetteinlagerung ins Fettgewebe.  
+⚠️ Zeitgleich droht **Übergewicht**, da das ständige Snacken auch mit ständigen Blutzuckerspitzen sowie mit hohen Insulinspiegeln einhergeht. Hohe Insulinspiegel jedoch verhindern den Fettabbau und fördern sogar noch die Fetteinlagerung ins Fettgewebe.  
 
 #### Das waren die Fehler, die viele Menschen machen, wenn es um Essen geht. Ich hoffe es hat euch gefallen.
