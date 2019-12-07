@@ -23,7 +23,7 @@ Bei einer Ernährungsumstellung kommt es häufig dazu, dass man plötzlich unhei
 
 Sie liefern mehr Mineralstoffe und Vitamine, mehr sekundäre Pflanzenstoffe und mehr Ballaststoffe.
 
-⚠️ **Zu viele Vollkornprodukte überlasten jedoch das Verdauungssystem und aufgrund der hohen Kohlenhydratgehalte auch die Bauchspeicheldrüse und die Leber.  **
+⚠️ **Zu viele Vollkornprodukte überlasten jedoch das Verdauungssystem und aufgrund der hohen Kohlenhydratgehalte auch die Bauchspeicheldrüse und die Leber.**  
 
 ### § 3. Fehler in der gesunden Ernährung: Zu viel Gluten
 
