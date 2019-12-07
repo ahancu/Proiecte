@@ -3,9 +3,7 @@
 
 
 
-### [] 1. Fehler in der gesunden Ernährung: Zu viele Omega-6-Fettsäuren x
-
- [ ] fefef 
+### § 1. Fehler in der gesunden Ernährung: Zu viele Omega-6-Fettsäuren x
 
 Omega-6-Fettsäuren sind natürlich gesund, also lebensnotwendig.
 
