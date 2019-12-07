@@ -33,4 +33,4 @@ Doch gewöhnt man sich rasch an die süsslichen Getränke, nimmt sie vielleicht 
 Bei einer Ernährungsumstellung kommt es häufig dazu, dass man plötzlich unheimlich viel Vollkorn verzehrt. Mit Vollkorn sind hier **Getreideprodukte aus Weizen, Dinkel, Hafer und Roggen** gemeint.
 Sie liefern mehr Mineralstoffe und Vitamine, mehr sekundäre Pflanzenstoffe und mehr Ballaststoffe.
 
-!Zu viele Vollkornprodukte überlasten jedoch das Verdauungssystem und aufgrund der hohen Kohlenhydratgehalte auch die Bauchspeicheldrüse und die Leber.!
+**Zu viele Vollkornprodukte überlasten jedoch das Verdauungssystem und aufgrund der hohen Kohlenhydratgehalte auch die Bauchspeicheldrüse und die Leber.
